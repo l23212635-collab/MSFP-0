@@ -1,4 +1,4 @@
-https://matlab.mathworks.com/open/github/v1?repo=DIehttps://github.com/l23212635-collab/MSFP-0
+https://matlab.mathworks.com/open/github/v1?repo=l23212635-collab/MSFP-0
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
